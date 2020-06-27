@@ -51,5 +51,5 @@ License
 MIT
 **Free Software
 
-   [git-repo-url]: <https://github.com/>
+   [git-repo-url]: <https://github.com/Manishpri/ShipThisBlogTask.git>
 
